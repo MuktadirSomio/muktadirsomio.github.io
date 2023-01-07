@@ -9,8 +9,9 @@ h1 {
 }
 a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: chocolate;
+    color:darkred;
     font-size: larger;
+    text-decoration: none;
 }
 .para {
     text-align: justify;
