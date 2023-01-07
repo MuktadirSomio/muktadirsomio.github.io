@@ -20,10 +20,6 @@ a {
     border-radius: 10px;
     font-size: large;
 }
-strong {
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(49, 177, 228);
-}
 .logo {
     width: 200px;
     height: 200px;
@@ -33,4 +29,8 @@ figcaption,figure {
     text-align: center;
     color: darkgreen;
     font-size: xx-large;
+}
+strong {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
 }
