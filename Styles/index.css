@@ -10,15 +10,14 @@ h1 {
 a {
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 600;
-    font-size: x-large;
     color: chocolate;
+    font-size: larger;
 }
 .para {
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: antiquewhite;
-    border-radius: 3px;
+    border-radius: 10px;
     font-size: large;
 }
 strong {
